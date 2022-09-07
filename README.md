@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+<img width="100%" height="550" src="https://www.iliketowastemytime.com/sites/default/files/mind-bending-gif-images2.gif" />
+
 ### Hello devs from all over the world
 
 😃 I'm Guilherme Brito Vilas - Bôas, a 20-year-old developer and welcome to my Github Profile.

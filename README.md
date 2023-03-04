@@ -4,9 +4,9 @@
 
 ### Hello devs from all over the world
 
-😃 I'm Guilherme Brito Vilas - Bôas, a 20-year-old developer and welcome to my Github Profile.
+😃 I'm Guilherme Brito Vilas - Bôas, a 20-year-old developer and student and be welcome to my Github Profile.
 
-💻 I'm currently working as a Full-Stack Intern in a Software Factory with Spring Framework + Angular.
+💻 I'm currently working as a Full-Stack Trainee in a Software Factory using Spring Framework + Angular.
 
 ## Technologies that I'm confortable working with
 

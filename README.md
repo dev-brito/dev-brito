@@ -13,7 +13,7 @@
 ### Programming Languages
 |[C](https://devdocs.io/c/)|[Java](https://docs.oracle.com/en/java/)|[Python](https://docs.python.org/3/)|[TypeScript](https://www.typescriptlang.org/pt/docs/)|[C++](https://cplusplus.com/)|
 |:--:|:--:|:--:|:--:|:--:|
-|<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />|<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />|<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />|<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />|<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />| <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+|<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />|<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />|<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />|<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />|<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
          
 ----
 
